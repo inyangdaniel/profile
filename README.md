@@ -1,1 +1,1 @@
-https://github.com/inyangdaniel/profile
+ https://inyangdaniel.github.io/profile/
